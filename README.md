@@ -1,1 +1,1 @@
-# D3D12.DXC-Preview-Jai
+1.10.2605.37-preview
